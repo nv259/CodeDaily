@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nv259/CodeDaily/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nv259/CodeDaily/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/nv259/CodeDaily/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2685-first-completely-painted-row-or-column](https://github.com/nv259/CodeDaily/tree/master/2685-first-completely-painted-row-or-column) |
 ## Stack
 |  |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/nv259/CodeDaily/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2685-first-completely-painted-row-or-column](https://github.com/nv259/CodeDaily/tree/master/2685-first-completely-painted-row-or-column) |
 ## Two Pointers
 |  |
@@ -45,4 +47,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nv259/CodeDaily/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/nv259/CodeDaily/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+## Graph
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/nv259/CodeDaily/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/nv259/CodeDaily/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+## Shortest Path
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/nv259/CodeDaily/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
