@@ -1,25 +1,32 @@
 class Solution:
     def eventualSafeNodes(self, graph: List[List[int]]) -> List[int]:
+        # Initialize
         n = len(graph)
-        safe = {}
+        safe_nodes = []
+        queue = deque()
 
-        def dfs(u):
-            if u in safe: 
-                return safe[u]
+        # Transpose the graph
+        transpose_graph = [[] for _ in range(n)]
+        for node_idx, neighbors in enumerate(graph):
+            for neighbor in neighbors:
+                transpose_graph[neighbor].append(node_idx)
 
-            safe[u] = False
+        # Kahn's algorithm 
+        ## Count in-degree for each node
+        in_degrees = [0 for _ in range(n)]
+        for node_idx in range(n):
+            in_degrees[node_idx] = len(graph[node_idx])
+            if in_degrees[node_idx] == 0:
+                queue.append(node_idx)
 
-            for v in graph[u]:
-                if not dfs(v):
-                    return False
-                
-            safe[u] = True
-            return True
+        while queue:
+            node = queue.popleft()
+            safe_nodes.append(node)
 
-        res = []
+            for neighbor in transpose_graph[node]:
+                in_degrees[neighbor] -= 1
 
-        for node in range(n):
-            if dfs(node):
-                res.append(node)
-
-        return res
+                if in_degrees[neighbor] == 0:
+                    queue.append(neighbor)
+        
+        return sorted(safe_nodes)
