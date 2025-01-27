@@ -128,4 +128,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/nv259/CodeDaily/tree/master/0374-guess-number-higher-or-lower) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/nv259/CodeDaily/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/nv259/CodeDaily/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
