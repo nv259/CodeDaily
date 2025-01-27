@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/nv259/CodeDaily/tree/master/0374-guess-number-higher-or-lower) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nv259/CodeDaily/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
@@ -123,4 +124,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/nv259/CodeDaily/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/nv259/CodeDaily/tree/master/1558-course-schedule-iv) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/nv259/CodeDaily/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
