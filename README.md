@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0747-min-cost-climbing-stairs](https://github.com/nv259/CodeDaily/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/nv259/CodeDaily/tree/master/0787-sliding-puzzle) |
+| [1236-n-th-tribonacci-number](https://github.com/nv259/CodeDaily/tree/master/1236-n-th-tribonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/nv259/CodeDaily/tree/master/0787-sliding-puzzle) |
+| [1236-n-th-tribonacci-number](https://github.com/nv259/CodeDaily/tree/master/1236-n-th-tribonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -136,4 +138,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/nv259/CodeDaily/tree/master/0206-reverse-linked-list) |
+## Math
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/nv259/CodeDaily/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
