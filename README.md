@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/nv259/CodeDaily/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/nv259/CodeDaily/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/nv259/CodeDaily/tree/master/0854-making-a-large-island) |
+| [1319-unique-number-of-occurrences](https://github.com/nv259/CodeDaily/tree/master/1319-unique-number-of-occurrences) |
 | [1396-count-servers-that-communicate](https://github.com/nv259/CodeDaily/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nv259/CodeDaily/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nv259/CodeDaily/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [1319-unique-number-of-occurrences](https://github.com/nv259/CodeDaily/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nv259/CodeDaily/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2685-first-completely-painted-row-or-column](https://github.com/nv259/CodeDaily/tree/master/2685-first-completely-painted-row-or-column) |
 ## Matrix
