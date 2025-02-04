@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nv259/CodeDaily/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nv259/CodeDaily/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1858-latest-time-by-replacing-hidden-digits](https://github.com/nv259/CodeDaily/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nv259/CodeDaily/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/nv259/CodeDaily/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2470-removing-stars-from-a-string](https://github.com/nv259/CodeDaily/tree/master/2470-removing-stars-from-a-string) |
@@ -207,4 +208,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/nv259/CodeDaily/tree/master/2470-removing-stars-from-a-string) |
+## Greedy
+|  |
+| ------- |
+| [1858-latest-time-by-replacing-hidden-digits](https://github.com/nv259/CodeDaily/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 <!---LeetCode Topics End-->
