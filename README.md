@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/nv259/CodeDaily/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/nv259/CodeDaily/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2448-count-number-of-bad-pairs](https://github.com/nv259/CodeDaily/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nv259/CodeDaily/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/nv259/CodeDaily/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/nv259/CodeDaily/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nv259/CodeDaily/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nv259/CodeDaily/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/nv259/CodeDaily/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/nv259/CodeDaily/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nv259/CodeDaily/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/nv259/CodeDaily/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2685-first-completely-painted-row-or-column](https://github.com/nv259/CodeDaily/tree/master/2685-first-completely-painted-row-or-column) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nv259/CodeDaily/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/nv259/CodeDaily/tree/master/0215-kth-largest-element-in-an-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/nv259/CodeDaily/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2434-design-a-number-container-system](https://github.com/nv259/CodeDaily/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nv259/CodeDaily/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Shortest Path
 |  |
 | ------- |
@@ -172,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/nv259/CodeDaily/tree/master/0215-kth-largest-element-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nv259/CodeDaily/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/nv259/CodeDaily/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nv259/CodeDaily/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Depth-First Search
 |  |
 | ------- |
