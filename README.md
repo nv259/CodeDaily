@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nv259/CodeDaily/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/nv259/CodeDaily/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/nv259/CodeDaily/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/nv259/CodeDaily/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/nv259/CodeDaily/tree/master/2470-removing-stars-from-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/nv259/CodeDaily/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3447-clear-digits](https://github.com/nv259/CodeDaily/tree/master/3447-clear-digits) |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nv259/CodeDaily/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/nv259/CodeDaily/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/nv259/CodeDaily/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/nv259/CodeDaily/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/nv259/CodeDaily/tree/master/3447-clear-digits) |
 ## Monotonic Stack
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/nv259/CodeDaily/tree/master/0787-sliding-puzzle) |
 | [1160-letter-tile-possibilities](https://github.com/nv259/CodeDaily/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/nv259/CodeDaily/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/nv259/CodeDaily/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/nv259/CodeDaily/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Memoization
 |  |
@@ -276,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/nv259/CodeDaily/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2089-maximum-matrix-sum](https://github.com/nv259/CodeDaily/tree/master/2089-maximum-matrix-sum) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/nv259/CodeDaily/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Sliding Window
 |  |
 | ------- |
