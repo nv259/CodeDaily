@@ -6,7 +6,7 @@
 #         self.right = right
 class Solution:
     def constructFromPrePost(self, preorder: List[int], postorder: List[int]) -> Optional[TreeNode]:
-        print(preorder, '-', postorder)
+        # print(preorder, '-', postorder)
         if len(preorder) == 0: return None
 
         root = TreeNode(preorder[0])
