@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/nv259/CodeDaily/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2448-count-number-of-bad-pairs](https://github.com/nv259/CodeDaily/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nv259/CodeDaily/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/nv259/CodeDaily/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2685-first-completely-painted-row-or-column](https://github.com/nv259/CodeDaily/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/nv259/CodeDaily/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/nv259/CodeDaily/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1558-course-schedule-iv](https://github.com/nv259/CodeDaily/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/nv259/CodeDaily/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/nv259/CodeDaily/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/nv259/CodeDaily/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/nv259/CodeDaily/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/nv259/CodeDaily/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/nv259/CodeDaily/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/nv259/CodeDaily/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/nv259/CodeDaily/tree/master/1558-course-schedule-iv) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/nv259/CodeDaily/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/nv259/CodeDaily/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/nv259/CodeDaily/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3189-find-champion-ii](https://github.com/nv259/CodeDaily/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/nv259/CodeDaily/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -217,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/nv259/CodeDaily/tree/master/1396-count-servers-that-communicate) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/nv259/CodeDaily/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/nv259/CodeDaily/tree/master/1558-course-schedule-iv) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/nv259/CodeDaily/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/nv259/CodeDaily/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
@@ -277,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/nv259/CodeDaily/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nv259/CodeDaily/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/nv259/CodeDaily/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/nv259/CodeDaily/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
