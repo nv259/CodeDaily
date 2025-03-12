@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nv259/CodeDaily/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/nv259/CodeDaily/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/nv259/CodeDaily/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nv259/CodeDaily/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2685-first-completely-painted-row-or-column](https://github.com/nv259/CodeDaily/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/nv259/CodeDaily/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/nv259/CodeDaily/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0374-guess-number-higher-or-lower](https://github.com/nv259/CodeDaily/tree/master/0374-guess-number-higher-or-lower) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nv259/CodeDaily/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/nv259/CodeDaily/tree/master/2263-maximum-running-time-of-n-computers) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nv259/CodeDaily/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
 | ------- |
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/nv259/CodeDaily/tree/master/1396-count-servers-that-communicate) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nv259/CodeDaily/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/nv259/CodeDaily/tree/master/2448-count-number-of-bad-pairs) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nv259/CodeDaily/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Topological Sort
 |  |
 | ------- |
