@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/nv259/CodeDaily/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nv259/CodeDaily/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/nv259/CodeDaily/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/nv259/CodeDaily/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/nv259/CodeDaily/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nv259/CodeDaily/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/nv259/CodeDaily/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/nv259/CodeDaily/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/nv259/CodeDaily/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/nv259/CodeDaily/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/nv259/CodeDaily/tree/master/2649-count-total-number-of-colored-cells) |
@@ -395,9 +397,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/nv259/CodeDaily/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/nv259/CodeDaily/tree/master/2610-closest-prime-numbers-in-range) |
 ## Enumeration
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/nv259/CodeDaily/tree/master/1656-count-good-triplets) |
+## Combinatorics
+|  |
+| ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/nv259/CodeDaily/tree/master/2415-count-the-number-of-ideal-arrays) |
 <!---LeetCode Topics End-->
