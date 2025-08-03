@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/nv259/CodeDaily/tree/master/0038-count-and-say) |
+| [0443-string-compression](https://github.com/nv259/CodeDaily/tree/master/0443-string-compression) |
 | [0868-push-dominoes](https://github.com/nv259/CodeDaily/tree/master/0868-push-dominoes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/nv259/CodeDaily/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/nv259/CodeDaily/tree/master/1160-letter-tile-possibilities) |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/nv259/CodeDaily/tree/master/0443-string-compression) |
 | [0868-push-dominoes](https://github.com/nv259/CodeDaily/tree/master/0868-push-dominoes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nv259/CodeDaily/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nv259/CodeDaily/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
