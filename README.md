@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/nv259/CodeDaily/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/nv259/CodeDaily/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nv259/CodeDaily/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0940-fruit-into-baskets](https://github.com/nv259/CodeDaily/tree/master/0940-fruit-into-baskets) |
 | [1036-rotting-oranges](https://github.com/nv259/CodeDaily/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/nv259/CodeDaily/tree/master/1046-max-consecutive-ones-iii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nv259/CodeDaily/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/nv259/CodeDaily/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/nv259/CodeDaily/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nv259/CodeDaily/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0940-fruit-into-baskets](https://github.com/nv259/CodeDaily/tree/master/0940-fruit-into-baskets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nv259/CodeDaily/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/nv259/CodeDaily/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nv259/CodeDaily/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -399,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/nv259/CodeDaily/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/nv259/CodeDaily/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/nv259/CodeDaily/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nv259/CodeDaily/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nv259/CodeDaily/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
