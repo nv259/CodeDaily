@@ -341,9 +341,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/nv259/CodeDaily/tree/master/0206-reverse-linked-list) |
+| [0342-power-of-four](https://github.com/nv259/CodeDaily/tree/master/0342-power-of-four) |
 ## Math
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/nv259/CodeDaily/tree/master/0342-power-of-four) |
 | [0797-rabbits-in-forest](https://github.com/nv259/CodeDaily/tree/master/0797-rabbits-in-forest) |
 | [1236-n-th-tribonacci-number](https://github.com/nv259/CodeDaily/tree/master/1236-n-th-tribonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/nv259/CodeDaily/tree/master/1477-product-of-the-last-k-numbers) |
@@ -464,5 +466,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/nv259/CodeDaily/tree/master/0342-power-of-four) |
 | [2529-range-product-queries-of-powers](https://github.com/nv259/CodeDaily/tree/master/2529-range-product-queries-of-powers) |
 <!---LeetCode Topics End-->
