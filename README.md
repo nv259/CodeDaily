@@ -348,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/nv259/CodeDaily/tree/master/0342-power-of-four) |
 | [0797-rabbits-in-forest](https://github.com/nv259/CodeDaily/tree/master/0797-rabbits-in-forest) |
 | [1236-n-th-tribonacci-number](https://github.com/nv259/CodeDaily/tree/master/1236-n-th-tribonacci-number) |
+| [1448-maximum-69-number](https://github.com/nv259/CodeDaily/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/nv259/CodeDaily/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/nv259/CodeDaily/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nv259/CodeDaily/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -406,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/nv259/CodeDaily/tree/master/0797-rabbits-in-forest) |
+| [1448-maximum-69-number](https://github.com/nv259/CodeDaily/tree/master/1448-maximum-69-number) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/nv259/CodeDaily/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2089-maximum-matrix-sum](https://github.com/nv259/CodeDaily/tree/master/2089-maximum-matrix-sum) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/nv259/CodeDaily/tree/master/2263-maximum-running-time-of-n-computers) |
