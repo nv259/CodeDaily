@@ -243,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/nv259/CodeDaily/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/nv259/CodeDaily/tree/master/0787-sliding-puzzle) |
 | [0806-domino-and-tromino-tiling](https://github.com/nv259/CodeDaily/tree/master/0806-domino-and-tromino-tiling) |
+| [0867-new-21-game](https://github.com/nv259/CodeDaily/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/nv259/CodeDaily/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/nv259/CodeDaily/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/nv259/CodeDaily/tree/master/1170-shortest-common-supersequence) |
@@ -347,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0342-power-of-four](https://github.com/nv259/CodeDaily/tree/master/0342-power-of-four) |
 | [0797-rabbits-in-forest](https://github.com/nv259/CodeDaily/tree/master/0797-rabbits-in-forest) |
+| [0867-new-21-game](https://github.com/nv259/CodeDaily/tree/master/0867-new-21-game) |
 | [1236-n-th-tribonacci-number](https://github.com/nv259/CodeDaily/tree/master/1236-n-th-tribonacci-number) |
 | [1448-maximum-69-number](https://github.com/nv259/CodeDaily/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/nv259/CodeDaily/tree/master/1477-product-of-the-last-k-numbers) |
@@ -416,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/nv259/CodeDaily/tree/master/0643-maximum-average-subarray-i) |
+| [0867-new-21-game](https://github.com/nv259/CodeDaily/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/nv259/CodeDaily/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/nv259/CodeDaily/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/nv259/CodeDaily/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -470,4 +473,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0342-power-of-four](https://github.com/nv259/CodeDaily/tree/master/0342-power-of-four) |
 | [2529-range-product-queries-of-powers](https://github.com/nv259/CodeDaily/tree/master/2529-range-product-queries-of-powers) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/nv259/CodeDaily/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
