@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nv259/CodeDaily/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nv259/CodeDaily/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/nv259/CodeDaily/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/nv259/CodeDaily/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/nv259/CodeDaily/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/nv259/CodeDaily/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3790-fruits-into-baskets-ii](https://github.com/nv259/CodeDaily/tree/master/3790-fruits-into-baskets-ii) |
