@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/nv259/CodeDaily/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/nv259/CodeDaily/tree/master/2107-find-unique-binary-string) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/nv259/CodeDaily/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/nv259/CodeDaily/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/nv259/CodeDaily/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nv259/CodeDaily/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/nv259/CodeDaily/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2107-find-unique-binary-string](https://github.com/nv259/CodeDaily/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/nv259/CodeDaily/tree/master/2145-grid-game) |
 | [2169-simple-bank-system](https://github.com/nv259/CodeDaily/tree/master/2169-simple-bank-system) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/nv259/CodeDaily/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2249-count-the-hidden-sequences](https://github.com/nv259/CodeDaily/tree/master/2249-count-the-hidden-sequences) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/nv259/CodeDaily/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/nv259/CodeDaily/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1876-map-of-highest-peak](https://github.com/nv259/CodeDaily/tree/master/1876-map-of-highest-peak) |
 | [2089-maximum-matrix-sum](https://github.com/nv259/CodeDaily/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/nv259/CodeDaily/tree/master/2145-grid-game) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/nv259/CodeDaily/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/nv259/CodeDaily/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/nv259/CodeDaily/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2685-first-completely-painted-row-or-column](https://github.com/nv259/CodeDaily/tree/master/2685-first-completely-painted-row-or-column) |
@@ -397,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nv259/CodeDaily/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/nv259/CodeDaily/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/nv259/CodeDaily/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/nv259/CodeDaily/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/nv259/CodeDaily/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/nv259/CodeDaily/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/nv259/CodeDaily/tree/master/2448-count-number-of-bad-pairs) |
