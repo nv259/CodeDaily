@@ -410,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2649-count-total-number-of-colored-cells](https://github.com/nv259/CodeDaily/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/nv259/CodeDaily/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/nv259/CodeDaily/tree/master/3227-find-missing-and-repeated-values) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/nv259/CodeDaily/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -529,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0342-power-of-four](https://github.com/nv259/CodeDaily/tree/master/0342-power-of-four) |
 | [2529-range-product-queries-of-powers](https://github.com/nv259/CodeDaily/tree/master/2529-range-product-queries-of-powers) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/nv259/CodeDaily/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Probability and Statistics
 |  |
 | ------- |
