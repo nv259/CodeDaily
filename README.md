@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nv259/CodeDaily/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nv259/CodeDaily/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/nv259/CodeDaily/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nv259/CodeDaily/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/nv259/CodeDaily/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/nv259/CodeDaily/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/nv259/CodeDaily/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nv259/CodeDaily/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nv259/CodeDaily/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/nv259/CodeDaily/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nv259/CodeDaily/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Matrix
 |  |
 | ------- |
@@ -414,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2649-count-total-number-of-colored-cells](https://github.com/nv259/CodeDaily/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/nv259/CodeDaily/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/nv259/CodeDaily/tree/master/3227-find-missing-and-repeated-values) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nv259/CodeDaily/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/nv259/CodeDaily/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Divide and Conquer
 |  |
