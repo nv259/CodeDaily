@@ -1,57 +1,83 @@
 class Solution:
     def countUnguarded(self, m: int, n: int, guards: List[List[int]], walls: List[List[int]]) -> int:
-        is_guarded = [[False for _ in range(n)] 
-                        for _ in range(m)]
-        directions = [(0, 1), (1, 0), (0, -1), (-1, 0)]
+        dict_x = {}
+        dict_y = {}
+        # grid_type 0: free, 1: guard, -1: wall
+        grid_type = [[0] * (n + 2) for _ in range(m + 2)]
 
-        occupied_cells = sorted(guards + walls)
-        print("Occupied cells:", occupied_cells) 
-        for cell in occupied_cells:
-            is_guarded[cell[0]][cell[1]] = True
+        def record_dict(dict_x, dict_y, x, y):
+            # Create a dictionary recording every occurred grid, sorted by y
+            # quick accessment by x
+            if x not in dict_y:
+                dict_y[x] = [0, n + 1]
+            dict_y[x].append(y)
 
-        def exist(x, y):
-            # Check for the presence of x in y
-            i = bisect_left(y, x)
-            if i == len(y): return False
-            return y[i] == x
+            # Create a dictionary recording every occurred grid, sorted by y
+            # quick accessment by x
+            if y not in dict_x:
+                dict_x[y] = [0, m + 1]
+            dict_x[y].append(x)
+
+            # return dict_x, dict_y
+
+        for x, y in guards:
+            x += 1
+            y += 1
+            record_dict(dict_x, dict_y, x, y)
+            # Record the type
+            grid_type[x][y] = 1
+
+        for x, y in walls:
+            x += 1
+            y += 1
+            record_dict(dict_x, dict_y, x, y)
+            # Record the type
+            grid_type[x][y] = -1
         
-        def in_grid(x, y):
-            return 0 <= x < m and 0 <= y < n
+        for x in dict_y:
+            dict_y[x].append(n + 1)
+            dict_y[x].sort()
+        for y in dict_x:
+            dict_x[y].append(m + 1)
+            dict_x[y].sort()
 
-        def dfs(x, y, curr_direction=None):
-            if not in_grid(x, y):
-                return -1
 
-            # Mark this cell as guarded
-            is_guarded[x][y] = True
+        def binary_search(arr, key):
+            pos = bisect.bisect_left(arr, key)
+            return arr[pos - 1], arr[pos]
 
-            # If current cell is Guard or Wall then break
-            # , given that current direction is not None
-            if exist([x, y], occupied_cells) and curr_direction is not None:
-                return 0
 
-            # If current direction is None, i.e., we are 
-            # checking a cell of Guard, check 4 directions 
-            # of this guard.
-            if curr_direction is None:
-                for direction in directions:
-                    dfs(x + direction[0], y + direction[1], direction)
-            else: # Otherwise, keep shifting along current direction
-                xm = x + curr_direction[0]
-                ym = y + curr_direction[1]
-                
-                dfs(x + curr_direction[0], y + curr_direction[1], curr_direction)
+        ans = 0
+        for x in range(1, m + 1):
+            for y in range(1, n + 1):
+                if grid_type[x][y] == 0:
+                    # print(x, y)
+                    is_unguarded_horizontally = 1
+                    if x in dict_y:
+                        y_left, y_right = binary_search(dict_y[x], y)
+                        # print('y', y_left, y_right, end=" ")
 
-            return 1
+                        if grid_type[x][y_left] != 1 and grid_type[x][y_right] != 1:
+                            is_unguarded_horizontally = 1
+                        else: 
+                            is_unguarded_horizontally = 0
+                        # print(is_unguarded_horizontally)
 
-        for guard in guards:
-            print(dfs(*guard))
+                    is_unguarded_vertically = 1
+                    if y in dict_x:
+                        x_left, x_right = binary_search(dict_x[y], x)
+                        # print('x', x_left, x_right, end=" ")
 
-        print("Grid", is_guarded)
+                        if grid_type[x_left][y] != 1 and grid_type[x_right][y] != 1:
+                            is_unguarded_vertically = 1
+                        else: 
+                            is_unguarded_vertically = 0
+                        # print(is_unguarded_vertically)
 
-        res = 0
-        for i in range(m):
-            for j in range(n): 
-                res += (is_guarded[i][j] == False)
+                    ans += is_unguarded_horizontally * is_unguarded_vertically
+                    # print(ans)
+        
+        return ans
 
-        return res
+
+        
