@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nv259/CodeDaily/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/nv259/CodeDaily/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nv259/CodeDaily/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/nv259/CodeDaily/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/nv259/CodeDaily/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nv259/CodeDaily/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/nv259/CodeDaily/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nv259/CodeDaily/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nv259/CodeDaily/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/nv259/CodeDaily/tree/master/1656-count-good-triplets) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/nv259/CodeDaily/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/nv259/CodeDaily/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/nv259/CodeDaily/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/nv259/CodeDaily/tree/master/1833-find-the-highest-altitude) |
@@ -288,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/nv259/CodeDaily/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nv259/CodeDaily/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nv259/CodeDaily/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/nv259/CodeDaily/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/nv259/CodeDaily/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/nv259/CodeDaily/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/nv259/CodeDaily/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -473,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-maximum-69-number](https://github.com/nv259/CodeDaily/tree/master/1448-maximum-69-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/nv259/CodeDaily/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nv259/CodeDaily/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/nv259/CodeDaily/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/nv259/CodeDaily/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2089-maximum-matrix-sum](https://github.com/nv259/CodeDaily/tree/master/2089-maximum-matrix-sum) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/nv259/CodeDaily/tree/master/2263-maximum-running-time-of-n-computers) |
