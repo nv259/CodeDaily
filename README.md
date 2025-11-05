@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/nv259/CodeDaily/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/nv259/CodeDaily/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/nv259/CodeDaily/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/nv259/CodeDaily/tree/master/0443-string-compression) |
 | [0868-push-dominoes](https://github.com/nv259/CodeDaily/tree/master/0868-push-dominoes) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/nv259/CodeDaily/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/nv259/CodeDaily/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/nv259/CodeDaily/tree/master/0118-pascals-triangle) |
 | [0200-number-of-islands](https://github.com/nv259/CodeDaily/tree/master/0200-number-of-islands) |
@@ -160,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/nv259/CodeDaily/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/nv259/CodeDaily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nv259/CodeDaily/tree/master/0242-valid-anagram) |
 | [0797-rabbits-in-forest](https://github.com/nv259/CodeDaily/tree/master/0797-rabbits-in-forest) |
@@ -343,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/nv259/CodeDaily/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/nv259/CodeDaily/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nv259/CodeDaily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/nv259/CodeDaily/tree/master/0217-contains-duplicate) |
