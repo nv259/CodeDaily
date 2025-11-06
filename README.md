@@ -377,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/nv259/CodeDaily/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/nv259/CodeDaily/tree/master/0854-making-a-large-island) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/nv259/CodeDaily/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1285-balance-a-binary-search-tree](https://github.com/nv259/CodeDaily/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nv259/CodeDaily/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/nv259/CodeDaily/tree/master/1396-count-servers-that-communicate) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/nv259/CodeDaily/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -455,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/nv259/CodeDaily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nv259/CodeDaily/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nv259/CodeDaily/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1285-balance-a-binary-search-tree](https://github.com/nv259/CodeDaily/tree/master/1285-balance-a-binary-search-tree) |
 ## Quickselect
 |  |
 | ------- |
@@ -467,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-search-in-a-binary-search-tree](https://github.com/nv259/CodeDaily/tree/master/0783-search-in-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nv259/CodeDaily/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/nv259/CodeDaily/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1285-balance-a-binary-search-tree](https://github.com/nv259/CodeDaily/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nv259/CodeDaily/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/nv259/CodeDaily/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/nv259/CodeDaily/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -474,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/nv259/CodeDaily/tree/master/0783-search-in-a-binary-search-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/nv259/CodeDaily/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -481,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-search-in-a-binary-search-tree](https://github.com/nv259/CodeDaily/tree/master/0783-search-in-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nv259/CodeDaily/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/nv259/CodeDaily/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1285-balance-a-binary-search-tree](https://github.com/nv259/CodeDaily/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nv259/CodeDaily/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/nv259/CodeDaily/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Simulation
@@ -503,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/nv259/CodeDaily/tree/master/0797-rabbits-in-forest) |
+| [1285-balance-a-binary-search-tree](https://github.com/nv259/CodeDaily/tree/master/1285-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/nv259/CodeDaily/tree/master/1448-maximum-69-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/nv259/CodeDaily/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nv259/CodeDaily/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
