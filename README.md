@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2145-grid-game](https://github.com/nv259/CodeDaily/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/nv259/CodeDaily/tree/master/2249-count-the-hidden-sequences) |
 | [2529-range-product-queries-of-powers](https://github.com/nv259/CodeDaily/tree/master/2529-range-product-queries-of-powers) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/nv259/CodeDaily/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2915-count-of-interesting-subarrays](https://github.com/nv259/CodeDaily/tree/master/2915-count-of-interesting-subarrays) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/nv259/CodeDaily/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/nv259/CodeDaily/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2551-apply-operations-to-an-array](https://github.com/nv259/CodeDaily/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/nv259/CodeDaily/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nv259/CodeDaily/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/nv259/CodeDaily/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2665-minimum-time-to-repair-cars](https://github.com/nv259/CodeDaily/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/nv259/CodeDaily/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/nv259/CodeDaily/tree/master/2690-house-robber-iv) |
@@ -344,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2263-maximum-running-time-of-n-computers](https://github.com/nv259/CodeDaily/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/nv259/CodeDaily/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nv259/CodeDaily/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/nv259/CodeDaily/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2665-minimum-time-to-repair-cars](https://github.com/nv259/CodeDaily/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/nv259/CodeDaily/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nv259/CodeDaily/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -517,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-maximum-matrix-sum](https://github.com/nv259/CodeDaily/tree/master/2089-maximum-matrix-sum) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/nv259/CodeDaily/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nv259/CodeDaily/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/nv259/CodeDaily/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Sliding Window
 |  |
 | ------- |
@@ -528,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nv259/CodeDaily/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/nv259/CodeDaily/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/nv259/CodeDaily/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/nv259/CodeDaily/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/nv259/CodeDaily/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3223-count-complete-substrings](https://github.com/nv259/CodeDaily/tree/master/3223-count-complete-substrings) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/nv259/CodeDaily/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -546,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/nv259/CodeDaily/tree/master/0969-number-of-recent-calls) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/nv259/CodeDaily/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/nv259/CodeDaily/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Data Stream
 |  |
 | ------- |
