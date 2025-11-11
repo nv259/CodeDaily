@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/nv259/CodeDaily/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/nv259/CodeDaily/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/nv259/CodeDaily/tree/master/0443-string-compression) |
+| [0474-ones-and-zeroes](https://github.com/nv259/CodeDaily/tree/master/0474-ones-and-zeroes) |
 | [0868-push-dominoes](https://github.com/nv259/CodeDaily/tree/master/0868-push-dominoes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/nv259/CodeDaily/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/nv259/CodeDaily/tree/master/1160-letter-tile-possibilities) |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/nv259/CodeDaily/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/nv259/CodeDaily/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/nv259/CodeDaily/tree/master/0347-top-k-frequent-elements) |
+| [0474-ones-and-zeroes](https://github.com/nv259/CodeDaily/tree/master/0474-ones-and-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/nv259/CodeDaily/tree/master/0643-maximum-average-subarray-i) |
 | [0679-24-game](https://github.com/nv259/CodeDaily/tree/master/0679-24-game) |
 | [0724-find-pivot-index](https://github.com/nv259/CodeDaily/tree/master/0724-find-pivot-index) |
@@ -306,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0118-pascals-triangle](https://github.com/nv259/CodeDaily/tree/master/0118-pascals-triangle) |
 | [0322-coin-change](https://github.com/nv259/CodeDaily/tree/master/0322-coin-change) |
+| [0474-ones-and-zeroes](https://github.com/nv259/CodeDaily/tree/master/0474-ones-and-zeroes) |
 | [0747-min-cost-climbing-stairs](https://github.com/nv259/CodeDaily/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/nv259/CodeDaily/tree/master/0787-sliding-puzzle) |
 | [0806-domino-and-tromino-tiling](https://github.com/nv259/CodeDaily/tree/master/0806-domino-and-tromino-tiling) |
