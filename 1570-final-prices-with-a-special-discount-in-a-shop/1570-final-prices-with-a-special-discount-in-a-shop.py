@@ -1,14 +1,15 @@
 class Solution:
     def finalPrices(self, prices: List[int]) -> List[int]:
-        # monotonic decreasing stack
-        stack = []
+        # monotonic 
+        stack = []      
 
-        for i, price in enumerate(prices):
-            while len(stack) and price <= prices[stack[-1]]:
-                j = stack.pop()
-                prices[j] -= price
+        for i in range(len(prices) - 1, -1, -1):
+            while len(stack) and prices[i] < stack[-1]:
+                stack.pop()
 
-            stack.append(i)
-             
-        return prices 
-        
+            original_price = prices[i]
+            if len(stack):
+                prices[i] -= stack[-1]
+            stack.append(original_price)
+
+        return prices
