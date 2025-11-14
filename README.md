@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2249-count-the-hidden-sequences](https://github.com/nv259/CodeDaily/tree/master/2249-count-the-hidden-sequences) |
 | [2529-range-product-queries-of-powers](https://github.com/nv259/CodeDaily/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/nv259/CodeDaily/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/nv259/CodeDaily/tree/master/2625-increment-submatrices-by-one) |
 | [2915-count-of-interesting-subarrays](https://github.com/nv259/CodeDaily/tree/master/2915-count-of-interesting-subarrays) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/nv259/CodeDaily/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/nv259/CodeDaily/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2564-most-profitable-path-in-a-tree](https://github.com/nv259/CodeDaily/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nv259/CodeDaily/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/nv259/CodeDaily/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/nv259/CodeDaily/tree/master/2625-increment-submatrices-by-one) |
 | [2665-minimum-time-to-repair-cars](https://github.com/nv259/CodeDaily/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/nv259/CodeDaily/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/nv259/CodeDaily/tree/master/2690-house-robber-iv) |
@@ -237,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nv259/CodeDaily/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/nv259/CodeDaily/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/nv259/CodeDaily/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2625-increment-submatrices-by-one](https://github.com/nv259/CodeDaily/tree/master/2625-increment-submatrices-by-one) |
 | [2685-first-completely-painted-row-or-column](https://github.com/nv259/CodeDaily/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/nv259/CodeDaily/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/nv259/CodeDaily/tree/master/3227-find-missing-and-repeated-values) |
