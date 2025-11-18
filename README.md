@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/nv259/CodeDaily/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/nv259/CodeDaily/tree/master/0643-maximum-average-subarray-i) |
 | [0679-24-game](https://github.com/nv259/CodeDaily/tree/master/0679-24-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/nv259/CodeDaily/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/nv259/CodeDaily/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/nv259/CodeDaily/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/nv259/CodeDaily/tree/master/0787-sliding-puzzle) |
