@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nv259/CodeDaily/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nv259/CodeDaily/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nv259/CodeDaily/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nv259/CodeDaily/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/nv259/CodeDaily/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nv259/CodeDaily/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/nv259/CodeDaily/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -510,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/nv259/CodeDaily/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nv259/CodeDaily/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/nv259/CodeDaily/tree/master/3227-find-missing-and-repeated-values) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nv259/CodeDaily/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nv259/CodeDaily/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/nv259/CodeDaily/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Divide and Conquer
