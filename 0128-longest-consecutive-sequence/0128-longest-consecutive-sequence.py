@@ -5,16 +5,16 @@ class Solution:
             avail[num] = True
         
         def traverse(num, direction):
-            if num not in avail:
+            if num not in avail or not avail[num]:
                 return 0
             
-            del avail[num] 
+            avail[num] = False
             return traverse(num + direction, direction) + 1
        
         ans = 0 
         for num in nums:
             if num in avail:
                 ans = max(ans, traverse(num + 1, 1) + traverse(num - 1, -1) + 1)
-                del avail[num]
+                avail[num] = False
         
         return ans 
