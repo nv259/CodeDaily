@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nv259/CodeDaily/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/nv259/CodeDaily/tree/master/2107-find-unique-binary-string) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/nv259/CodeDaily/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [2211-count-collisions-on-a-road](https://github.com/nv259/CodeDaily/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nv259/CodeDaily/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/nv259/CodeDaily/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nv259/CodeDaily/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nv259/CodeDaily/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/nv259/CodeDaily/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/nv259/CodeDaily/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2211-count-collisions-on-a-road](https://github.com/nv259/CodeDaily/tree/master/2211-count-collisions-on-a-road) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/nv259/CodeDaily/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/nv259/CodeDaily/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/nv259/CodeDaily/tree/master/3447-clear-digits) |
@@ -579,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/nv259/CodeDaily/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/nv259/CodeDaily/tree/master/2048-build-array-from-permutation) |
 | [2169-simple-bank-system](https://github.com/nv259/CodeDaily/tree/master/2169-simple-bank-system) |
+| [2211-count-collisions-on-a-road](https://github.com/nv259/CodeDaily/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/nv259/CodeDaily/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/nv259/CodeDaily/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/nv259/CodeDaily/tree/master/2343-count-unguarded-cells-in-the-grid) |
