@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2915-count-of-interesting-subarrays](https://github.com/nv259/CodeDaily/tree/master/2915-count-of-interesting-subarrays) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nv259/CodeDaily/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/nv259/CodeDaily/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/nv259/CodeDaily/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/nv259/CodeDaily/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/nv259/CodeDaily/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Array
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nv259/CodeDaily/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nv259/CodeDaily/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/nv259/CodeDaily/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/nv259/CodeDaily/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nv259/CodeDaily/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/nv259/CodeDaily/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/nv259/CodeDaily/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -379,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2415-count-the-number-of-ideal-arrays](https://github.com/nv259/CodeDaily/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/nv259/CodeDaily/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nv259/CodeDaily/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/nv259/CodeDaily/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/nv259/CodeDaily/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Backtracking
 |  |
@@ -630,6 +633,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3223-count-complete-substrings](https://github.com/nv259/CodeDaily/tree/master/3223-count-complete-substrings) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/nv259/CodeDaily/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/nv259/CodeDaily/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/nv259/CodeDaily/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/nv259/CodeDaily/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/nv259/CodeDaily/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Design
@@ -646,6 +650,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0969-number-of-recent-calls](https://github.com/nv259/CodeDaily/tree/master/0969-number-of-recent-calls) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/nv259/CodeDaily/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/nv259/CodeDaily/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/nv259/CodeDaily/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Data Stream
 |  |
 | ------- |
@@ -700,4 +705,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/nv259/CodeDaily/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/nv259/CodeDaily/tree/master/3625-count-number-of-trapezoids-ii) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/nv259/CodeDaily/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 <!---LeetCode Topics End-->
