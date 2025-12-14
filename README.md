@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/nv259/CodeDaily/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nv259/CodeDaily/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/nv259/CodeDaily/tree/master/2107-find-unique-binary-string) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/nv259/CodeDaily/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/nv259/CodeDaily/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2211-count-collisions-on-a-road](https://github.com/nv259/CodeDaily/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nv259/CodeDaily/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -384,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/nv259/CodeDaily/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/nv259/CodeDaily/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/nv259/CodeDaily/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/nv259/CodeDaily/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/nv259/CodeDaily/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/nv259/CodeDaily/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/nv259/CodeDaily/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -532,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1817-calculate-money-in-leetcode-bank](https://github.com/nv259/CodeDaily/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/nv259/CodeDaily/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/nv259/CodeDaily/tree/master/1925-count-square-sum-triples) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/nv259/CodeDaily/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nv259/CodeDaily/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/nv259/CodeDaily/tree/master/2288-count-operations-to-obtain-zero) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/nv259/CodeDaily/tree/master/2415-count-the-number-of-ideal-arrays) |
