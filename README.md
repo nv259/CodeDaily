@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nv259/CodeDaily/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/nv259/CodeDaily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/nv259/CodeDaily/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/nv259/CodeDaily/tree/master/0496-next-greater-element-i) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nv259/CodeDaily/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -473,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nv259/CodeDaily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/nv259/CodeDaily/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nv259/CodeDaily/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0437-path-sum-iii](https://github.com/nv259/CodeDaily/tree/master/0437-path-sum-iii) |
@@ -591,6 +593,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nv259/CodeDaily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nv259/CodeDaily/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0437-path-sum-iii](https://github.com/nv259/CodeDaily/tree/master/0437-path-sum-iii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nv259/CodeDaily/tree/master/0783-search-in-a-binary-search-tree) |
@@ -611,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nv259/CodeDaily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nv259/CodeDaily/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0437-path-sum-iii](https://github.com/nv259/CodeDaily/tree/master/0437-path-sum-iii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/nv259/CodeDaily/tree/master/0783-search-in-a-binary-search-tree) |
