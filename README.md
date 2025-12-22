@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0868-push-dominoes](https://github.com/nv259/CodeDaily/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/nv259/CodeDaily/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/nv259/CodeDaily/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/nv259/CodeDaily/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/nv259/CodeDaily/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/nv259/CodeDaily/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/nv259/CodeDaily/tree/master/1170-shortest-common-supersequence) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/nv259/CodeDaily/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/nv259/CodeDaily/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/nv259/CodeDaily/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/nv259/CodeDaily/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/nv259/CodeDaily/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1036-rotting-oranges](https://github.com/nv259/CodeDaily/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/nv259/CodeDaily/tree/master/1046-max-consecutive-ones-iii) |
@@ -392,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-new-21-game](https://github.com/nv259/CodeDaily/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/nv259/CodeDaily/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/nv259/CodeDaily/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/nv259/CodeDaily/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1170-shortest-common-supersequence](https://github.com/nv259/CodeDaily/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/nv259/CodeDaily/tree/master/1236-n-th-tribonacci-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nv259/CodeDaily/tree/master/1262-greatest-sum-divisible-by-three) |
