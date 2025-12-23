@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nv259/CodeDaily/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/nv259/CodeDaily/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2048-build-array-from-permutation](https://github.com/nv259/CodeDaily/tree/master/2048-build-array-from-permutation) |
+| [2054-two-best-non-overlapping-events](https://github.com/nv259/CodeDaily/tree/master/2054-two-best-non-overlapping-events) |
 | [2089-maximum-matrix-sum](https://github.com/nv259/CodeDaily/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/nv259/CodeDaily/tree/master/2107-find-unique-binary-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nv259/CodeDaily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -369,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/nv259/CodeDaily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nv259/CodeDaily/tree/master/0347-top-k-frequent-elements) |
 | [1612-avoid-flood-in-the-city](https://github.com/nv259/CodeDaily/tree/master/1612-avoid-flood-in-the-city) |
+| [2054-two-best-non-overlapping-events](https://github.com/nv259/CodeDaily/tree/master/2054-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/nv259/CodeDaily/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2434-design-a-number-container-system](https://github.com/nv259/CodeDaily/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nv259/CodeDaily/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -404,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/nv259/CodeDaily/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/nv259/CodeDaily/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/nv259/CodeDaily/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2054-two-best-non-overlapping-events](https://github.com/nv259/CodeDaily/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/nv259/CodeDaily/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/nv259/CodeDaily/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/nv259/CodeDaily/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -439,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/nv259/CodeDaily/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nv259/CodeDaily/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1612-avoid-flood-in-the-city](https://github.com/nv259/CodeDaily/tree/master/1612-avoid-flood-in-the-city) |
+| [2054-two-best-non-overlapping-events](https://github.com/nv259/CodeDaily/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/nv259/CodeDaily/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/nv259/CodeDaily/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/nv259/CodeDaily/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -465,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nv259/CodeDaily/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nv259/CodeDaily/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/nv259/CodeDaily/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2054-two-best-non-overlapping-events](https://github.com/nv259/CodeDaily/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/nv259/CodeDaily/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/nv259/CodeDaily/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/nv259/CodeDaily/tree/master/2263-maximum-running-time-of-n-computers) |
