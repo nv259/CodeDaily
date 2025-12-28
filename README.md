@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1262-greatest-sum-divisible-by-three](https://github.com/nv259/CodeDaily/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1319-unique-number-of-occurrences](https://github.com/nv259/CodeDaily/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/nv259/CodeDaily/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nv259/CodeDaily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nv259/CodeDaily/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/nv259/CodeDaily/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/nv259/CodeDaily/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -305,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/nv259/CodeDaily/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/nv259/CodeDaily/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nv259/CodeDaily/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nv259/CodeDaily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/nv259/CodeDaily/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/nv259/CodeDaily/tree/master/1876-map-of-highest-peak) |
 | [2089-maximum-matrix-sum](https://github.com/nv259/CodeDaily/tree/master/2089-maximum-matrix-sum) |
@@ -449,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0374-guess-number-higher-or-lower](https://github.com/nv259/CodeDaily/tree/master/0374-guess-number-higher-or-lower) |
 | [1046-max-consecutive-ones-iii](https://github.com/nv259/CodeDaily/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/nv259/CodeDaily/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nv259/CodeDaily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nv259/CodeDaily/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1612-avoid-flood-in-the-city](https://github.com/nv259/CodeDaily/tree/master/1612-avoid-flood-in-the-city) |
 | [2054-two-best-non-overlapping-events](https://github.com/nv259/CodeDaily/tree/master/2054-two-best-non-overlapping-events) |
