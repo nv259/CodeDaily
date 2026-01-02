@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/nv259/CodeDaily/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/nv259/CodeDaily/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/nv259/CodeDaily/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/nv259/CodeDaily/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/nv259/CodeDaily/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/nv259/CodeDaily/tree/master/0316-remove-duplicate-letters) |
 | [0443-string-compression](https://github.com/nv259/CodeDaily/tree/master/0443-string-compression) |
@@ -333,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nv259/CodeDaily/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/nv259/CodeDaily/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/nv259/CodeDaily/tree/master/0443-string-compression) |
 | [0868-push-dominoes](https://github.com/nv259/CodeDaily/tree/master/0868-push-dominoes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nv259/CodeDaily/tree/master/1468-check-if-n-and-its-double-exist) |
