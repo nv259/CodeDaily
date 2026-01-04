@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nv259/CodeDaily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nv259/CodeDaily/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/nv259/CodeDaily/tree/master/1364-tuple-with-same-product) |
+| [1390-four-divisors](https://github.com/nv259/CodeDaily/tree/master/1390-four-divisors) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/nv259/CodeDaily/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/nv259/CodeDaily/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nv259/CodeDaily/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -585,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-new-21-game](https://github.com/nv259/CodeDaily/tree/master/0867-new-21-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nv259/CodeDaily/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1236-n-th-tribonacci-number](https://github.com/nv259/CodeDaily/tree/master/1236-n-th-tribonacci-number) |
+| [1390-four-divisors](https://github.com/nv259/CodeDaily/tree/master/1390-four-divisors) |
 | [1448-maximum-69-number](https://github.com/nv259/CodeDaily/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/nv259/CodeDaily/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/nv259/CodeDaily/tree/master/1500-count-largest-group) |
