@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0036-valid-sudoku](https://github.com/nv259/CodeDaily/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/nv259/CodeDaily/tree/master/0049-group-anagrams) |
+| [0085-maximal-rectangle](https://github.com/nv259/CodeDaily/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/nv259/CodeDaily/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/nv259/CodeDaily/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/nv259/CodeDaily/tree/master/0128-longest-consecutive-sequence) |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nv259/CodeDaily/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/nv259/CodeDaily/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/nv259/CodeDaily/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nv259/CodeDaily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/nv259/CodeDaily/tree/master/0155-min-stack) |
@@ -239,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/nv259/CodeDaily/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/nv259/CodeDaily/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/nv259/CodeDaily/tree/master/0496-next-greater-element-i) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nv259/CodeDaily/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -312,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/nv259/CodeDaily/tree/master/0036-valid-sudoku) |
+| [0085-maximal-rectangle](https://github.com/nv259/CodeDaily/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/nv259/CodeDaily/tree/master/0200-number-of-islands) |
 | [0787-sliding-puzzle](https://github.com/nv259/CodeDaily/tree/master/0787-sliding-puzzle) |
 | [0840-magic-squares-in-grid](https://github.com/nv259/CodeDaily/tree/master/0840-magic-squares-in-grid) |
@@ -413,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/nv259/CodeDaily/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/nv259/CodeDaily/tree/master/0118-pascals-triangle) |
 | [0322-coin-change](https://github.com/nv259/CodeDaily/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/nv259/CodeDaily/tree/master/0474-ones-and-zeroes) |
