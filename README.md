@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0724-find-pivot-index](https://github.com/nv259/CodeDaily/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/nv259/CodeDaily/tree/master/1046-max-consecutive-ones-iii) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/nv259/CodeDaily/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/nv259/CodeDaily/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nv259/CodeDaily/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/nv259/CodeDaily/tree/master/1590-make-sum-divisible-by-p) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nv259/CodeDaily/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nv259/CodeDaily/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/nv259/CodeDaily/tree/master/1266-minimum-time-visiting-all-points) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/nv259/CodeDaily/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1319-unique-number-of-occurrences](https://github.com/nv259/CodeDaily/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/nv259/CodeDaily/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nv259/CodeDaily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -327,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/nv259/CodeDaily/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/nv259/CodeDaily/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nv259/CodeDaily/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/nv259/CodeDaily/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nv259/CodeDaily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/nv259/CodeDaily/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/nv259/CodeDaily/tree/master/1876-map-of-highest-peak) |
@@ -477,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/nv259/CodeDaily/tree/master/0374-guess-number-higher-or-lower) |
 | [1046-max-consecutive-ones-iii](https://github.com/nv259/CodeDaily/tree/master/1046-max-consecutive-ones-iii) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/nv259/CodeDaily/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/nv259/CodeDaily/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nv259/CodeDaily/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nv259/CodeDaily/tree/master/1468-check-if-n-and-its-double-exist) |
