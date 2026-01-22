@@ -16,14 +16,10 @@ class Solution:
                 while len(stack) and (nums[stack[-1]] + nums[stack[-1] + 1] > nums[i] + nums[i + 1]):
                     stack.pop()
                 stack.append(i)
-                print(stack)
-
                 i += 1  
             
             i = stack[0]
-            left = nums[: i]
-            right = [] if i + 2 >= N else nums[i + 2:]
-            nums = left + [nums[i] + nums[i + 1]] + right
+            nums = nums[: i] + [nums[i] + nums[i + 1]] + nums[i + 2:]
             ans += 1
 
         return ans
