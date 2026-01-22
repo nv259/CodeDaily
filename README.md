@@ -204,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nv259/CodeDaily/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/nv259/CodeDaily/tree/master/3453-separate-squares-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nv259/CodeDaily/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nv259/CodeDaily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nv259/CodeDaily/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/nv259/CodeDaily/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3531-count-covered-buildings](https://github.com/nv259/CodeDaily/tree/master/3531-count-covered-buildings) |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nv259/CodeDaily/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nv259/CodeDaily/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nv259/CodeDaily/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nv259/CodeDaily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/nv259/CodeDaily/tree/master/3531-count-covered-buildings) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/nv259/CodeDaily/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nv259/CodeDaily/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -416,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2434-design-a-number-container-system](https://github.com/nv259/CodeDaily/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/nv259/CodeDaily/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/nv259/CodeDaily/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nv259/CodeDaily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/nv259/CodeDaily/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/nv259/CodeDaily/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/nv259/CodeDaily/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -595,6 +598,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/nv259/CodeDaily/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/nv259/CodeDaily/tree/master/0328-odd-even-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nv259/CodeDaily/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nv259/CodeDaily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -711,6 +715,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3433-count-mentions-per-user](https://github.com/nv259/CodeDaily/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nv259/CodeDaily/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/nv259/CodeDaily/tree/master/3447-clear-digits) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nv259/CodeDaily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/nv259/CodeDaily/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/nv259/CodeDaily/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/nv259/CodeDaily/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -783,6 +788,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/nv259/CodeDaily/tree/master/2434-design-a-number-container-system) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nv259/CodeDaily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/nv259/CodeDaily/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/nv259/CodeDaily/tree/master/3791-fruits-into-baskets-iii) |
 | [3863-power-grid-maintenance](https://github.com/nv259/CodeDaily/tree/master/3863-power-grid-maintenance) |
@@ -842,4 +848,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/nv259/CodeDaily/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nv259/CodeDaily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
