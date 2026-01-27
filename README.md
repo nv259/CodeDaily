@@ -429,12 +429,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/nv259/CodeDaily/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/nv259/CodeDaily/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/nv259/CodeDaily/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/nv259/CodeDaily/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3863-power-grid-maintenance](https://github.com/nv259/CodeDaily/tree/master/3863-power-grid-maintenance) |
 ## Shortest Path
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/nv259/CodeDaily/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/nv259/CodeDaily/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/nv259/CodeDaily/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -868,4 +870,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nv259/CodeDaily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/nv259/CodeDaily/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/nv259/CodeDaily/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
