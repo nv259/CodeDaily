@@ -1,11 +1,11 @@
 class Solution:
     def minimumDeletions(self, s: str) -> int:
-        s = [ord(c) - ord('a') for c in s]
+        # s = [ord(c) - ord('a') for c in s]
         N = len(s)
         ans = 0
-        f = [float('inf')] * N
+        f = ['c'] * N
 
-        def bisect_right(arr, key):
+        def bin_search(arr, key):
             ans = -1
             low, high = 0, len(arr)
             
@@ -21,7 +21,7 @@ class Solution:
             return ans
 
         for i in range(N):
-            idx = bisect_right(f, s[i])
+            idx = bin_search(f, s[i])
             ans = max(ans, idx + 1)
             # print(f, idx, ans)
             f[idx] = s[i]
