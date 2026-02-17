@@ -510,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/nv259/CodeDaily/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/nv259/CodeDaily/tree/master/0679-24-game) |
 | [0787-sliding-puzzle](https://github.com/nv259/CodeDaily/tree/master/0787-sliding-puzzle) |
 | [1160-letter-tile-possibilities](https://github.com/nv259/CodeDaily/tree/master/1160-letter-tile-possibilities) |
@@ -891,6 +892,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/nv259/CodeDaily/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/nv259/CodeDaily/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/nv259/CodeDaily/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/nv259/CodeDaily/tree/master/0401-binary-watch) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/nv259/CodeDaily/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/nv259/CodeDaily/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nv259/CodeDaily/tree/master/2059-unique-length-3-palindromic-subsequences) |
