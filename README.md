@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0474-ones-and-zeroes](https://github.com/nv259/CodeDaily/tree/master/0474-ones-and-zeroes) |
 | [0696-count-binary-substrings](https://github.com/nv259/CodeDaily/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nv259/CodeDaily/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0761-special-binary-string](https://github.com/nv259/CodeDaily/tree/master/0761-special-binary-string) |
 | [0868-push-dominoes](https://github.com/nv259/CodeDaily/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/nv259/CodeDaily/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/nv259/CodeDaily/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -563,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/nv259/CodeDaily/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nv259/CodeDaily/tree/master/0347-top-k-frequent-elements) |
 | [0759-set-intersection-size-at-least-two](https://github.com/nv259/CodeDaily/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/nv259/CodeDaily/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/nv259/CodeDaily/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nv259/CodeDaily/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/nv259/CodeDaily/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -712,6 +714,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0190-reverse-bits](https://github.com/nv259/CodeDaily/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nv259/CodeDaily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/nv259/CodeDaily/tree/master/0347-top-k-frequent-elements) |
+| [0761-special-binary-string](https://github.com/nv259/CodeDaily/tree/master/0761-special-binary-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nv259/CodeDaily/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/nv259/CodeDaily/tree/master/1285-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/nv259/CodeDaily/tree/master/3719-longest-balanced-subarray-i) |
