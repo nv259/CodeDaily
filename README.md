@@ -691,6 +691,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/nv259/CodeDaily/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/nv259/CodeDaily/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/nv259/CodeDaily/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/nv259/CodeDaily/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/nv259/CodeDaily/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/nv259/CodeDaily/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/nv259/CodeDaily/tree/master/1925-count-square-sum-triples) |
@@ -778,6 +779,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/nv259/CodeDaily/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/nv259/CodeDaily/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/nv259/CodeDaily/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/nv259/CodeDaily/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/nv259/CodeDaily/tree/master/2048-build-array-from-permutation) |
 | [2169-simple-bank-system](https://github.com/nv259/CodeDaily/tree/master/2169-simple-bank-system) |
@@ -917,6 +919,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/nv259/CodeDaily/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/nv259/CodeDaily/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/nv259/CodeDaily/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/nv259/CodeDaily/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/nv259/CodeDaily/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nv259/CodeDaily/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2529-range-product-queries-of-powers](https://github.com/nv259/CodeDaily/tree/master/2529-range-product-queries-of-powers) |
