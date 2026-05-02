@@ -533,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nv259/CodeDaily/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/nv259/CodeDaily/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/nv259/CodeDaily/tree/master/0787-sliding-puzzle) |
+| [0788-rotated-digits](https://github.com/nv259/CodeDaily/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/nv259/CodeDaily/tree/master/0799-champagne-tower) |
 | [0806-domino-and-tromino-tiling](https://github.com/nv259/CodeDaily/tree/master/0806-domino-and-tromino-tiling) |
 | [0867-new-21-game](https://github.com/nv259/CodeDaily/tree/master/0867-new-21-game) |
@@ -739,6 +740,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/nv259/CodeDaily/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/nv259/CodeDaily/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/nv259/CodeDaily/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/nv259/CodeDaily/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/nv259/CodeDaily/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/nv259/CodeDaily/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/nv259/CodeDaily/tree/master/0867-new-21-game) |
