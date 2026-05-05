@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/nv259/CodeDaily/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/nv259/CodeDaily/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/nv259/CodeDaily/tree/master/0049-group-anagrams) |
 | [0085-maximal-rectangle](https://github.com/nv259/CodeDaily/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/nv259/CodeDaily/tree/master/0088-merge-sorted-array) |
@@ -398,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/nv259/CodeDaily/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/nv259/CodeDaily/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/nv259/CodeDaily/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/nv259/CodeDaily/tree/master/0200-number-of-islands) |
 | [0787-sliding-puzzle](https://github.com/nv259/CodeDaily/tree/master/0787-sliding-puzzle) |
@@ -737,6 +739,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nv259/CodeDaily/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/nv259/CodeDaily/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nv259/CodeDaily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0342-power-of-four](https://github.com/nv259/CodeDaily/tree/master/0342-power-of-four) |
